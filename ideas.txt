@@ -3,3 +3,21 @@
 3. An ecommerce website for a website 
 4. A workout app that automatically helps you progressive overload. 
 5. Note taking app. 
+
+Number #4 is chosen. Name can change
+
+Pitch Idea: RepIt is an application that allows users to input their current workout routine for days, weeks, reps, sets, and workout type. Once these pieces of information are added,
+the app automatically calculates and logs workouts, adding reps and/or weight to the previous workout, making it easier to track and progressive overload. 
+
+MVP: 
+    1. Users can log into the app
+    2. Users can input the name of the exercise they're performing
+    3. Users can input the amount of reps and/or time.
+    4. Users can choose how the app will automatically increment reps, weight, or time to their next workout
+    5. Button to complete workout and a category for each workout type.
+    6. Users can tap an exercise to cross it off the list. 
+
+Future Features: 
+    1. Users can input how hard or difficult the workout was and the app will automatically adjust 
+    2. Users will be able to connect to social media to connect with friends and family
+    
